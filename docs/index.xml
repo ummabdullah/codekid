@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code Kid</title>
+    <link>http://ummabdullah.github.com/codekid/</link>
+    <description>Recent content on Code Kid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Apr 2018 16:43:34 -0400</lastBuildDate>
+    
+	<atom:link href="http://ummabdullah.github.com/codekid/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Main</title>
+      <link>http://ummabdullah.github.com/codekid/posts/</link>
+      <pubDate>Mon, 02 Apr 2018 16:43:34 -0400</pubDate>
+      
+      <guid>http://ummabdullah.github.com/codekid/posts/</guid>
+      <description>Bismillah.
+&amp;#8220;Very few things in life are worth crying over.&amp;#8221; Ponder it. Very few things in life are worth throwing a fit over or complaining about. In Islamic work, especially, people attach importantance to things that aren&amp;#8217;t issues, tempers rise, fights break out, and brotherhood dies. And in the end, Allah (سبحانه وتعالى) controls over all things.
+So sit back, chill out, and let it run by you. No harm done, right?</description>
+    </item>
+    
+  </channel>
+</rss>
